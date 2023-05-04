@@ -1,0 +1,32 @@
+{
+	"update_news": [
+		{
+		  	"name": "baothanhnien",
+			"url": "https://services.thanhnien.vn",
+			"api": "/vnpt/getNews",
+			"private_key": "2ksl;SA2@)$820",
+			"categories": [
+				"12", 
+				"69"
+			]
+		},
+		{
+		  	"name": "baotienphong",
+			"url": "https://api.tienphong.vn",
+			"api": "/vnpt/v1/get-contents.json",
+			"private_key": "tienphong.vn(^D&C@N122*)",
+			"categories": [
+				"4"
+			]
+		},
+		{
+			"name": "baothieunien",
+			"url": "https://thieunien.vn",
+			"api": "/api/GetNews",
+			"private_key": "pg5VKR=U_Zu@aDWR",
+			"categories": [
+				"32"
+			]
+		}
+	]
+}

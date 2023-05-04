@@ -1,0 +1,9 @@
+rootProject.name = 'tnvn_processes'
+
+include(
+        'save-log',
+        'send-email',
+        'fetch-news',
+        'refresh-token',
+        'update-profile'
+)
